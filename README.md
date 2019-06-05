@@ -1,4 +1,4 @@
-#**The Gadget Hamper**
+# The Gadget Hamper
 ##The Universal Device Charging Cradle system
 
 TL;DR: This is an open device charger that can be easily adjusted to support any handheld equipment needing a charging dock.

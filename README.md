@@ -1,7 +1,10 @@
 # The Gadget Hamper
-##The Universal Device Charging Cradle system
 
-TL;DR: This is an open device charger that can be easily adjusted to support any handheld equipment needing a charging dock.
+## The Universal Device Charging Cradle system
+
+![HTML formatted Gadget-Hamper log](/gadget_hamper001.jpg)
+
+TL;DR: This is a 3D printable open device charger that can be easily adjusted to support any handheld equipment needing a charging dock.
 
 - Main project site: http://gadgethamper.site
 - The latest version of this project is always available here on GitHub: https://github.com/dosman33/Gadget-Hamper

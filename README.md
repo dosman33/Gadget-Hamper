@@ -6,7 +6,7 @@
 
 TL;DR: This is a 3D printable open device charger that can be easily adjusted to support any handheld equipment needing a charging dock.
 
-- Main project site: http://gadgethamper.site
+- Main project site: http://gadgethamper.org
 - The latest version of this project is always available here on GitHub: https://github.com/dosman33/Gadget-Hamper
 - This project is also on Thingiverse: https://www.thingiverse.com/thing:3670668
 
